@@ -1,6 +1,6 @@
 # **About Me**
 
-## **graduated from Georgia State University - Cairo University Partnership.**
+## **Graduated from Georgia State University - Cairo University Partnership.**
 
 ## **I have a Bachelor degree of commerce and trained with one of the top companies in Egypt Ezz Steel co. at there financial department.**
 
