@@ -1,7 +1,7 @@
 # Site settings
 title: My Projects
-  name: Ali Samir
-  email: ali.samir.elsaid@gmail.com
+name: Ali Samir
+email: ali.samir.elsaid@gmail.com
 description: "A webpage for All my projects and accomplishments."
 
 # Build settings
