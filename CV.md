@@ -1,5 +1,6 @@
 ---
 layout: CV 
+title: RESUME
 ---
 
     </div>
