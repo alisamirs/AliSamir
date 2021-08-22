@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: My Projects
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Ali Samir
+  email: ali.samir.elsaid@gmail.com
+description: "A webpage for All my projects and accomplishments."
 
 # Build settings
 remote_theme: jekyll/minima
