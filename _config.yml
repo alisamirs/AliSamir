@@ -5,4 +5,4 @@ title: My Projects
 description: "A webpage for All my projects and accomplishments."
 
 # Build settings
-remote_theme: jekyll.gemspec
+remote_theme: jekyll/minima
